@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="美团充电仓CCD.csproj" Id="2b98c581-4a31-491c-b6af-9c0ab17502ef">
+    <Platform Project="x64" />
+  </Project>
+</Solution>

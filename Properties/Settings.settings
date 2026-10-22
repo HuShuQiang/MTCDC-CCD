@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="美团充电仓CCD.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Model" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TS6J-Test</Value>
+    </Setting>
+    <Setting Name="Model_uuid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">900000325</Value>
+    </Setting>
+    <Setting Name="Station" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WholeMachineTest</Value>
+    </Setting>
+    <Setting Name="Fixid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4F01Q1001</Value>
+    </Setting>
+    <Setting Name="Ukey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QR</Value>
+    </Setting>
+    <Setting Name="ischecktested" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ischecklasttested" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BoxScan" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sn</Value>
+    </Setting>
+    <Setting Name="DevScan" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QR</Value>
+    </Setting>
+    <Setting Name="Order" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="packing_check_recovery" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="packing_check_boardBind" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Product" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MTF6J4AY1</Value>
+    </Setting>
+    <Setting Name="CMIITID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">26C125AAZ982</Value>
+    </Setting>
+    <Setting Name="Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.4A</Value>
+    </Setting>
+    <Setting Name="Output" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3A</Value>
+    </Setting>
+    <Setting Name="TotalOutput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5A</Value>
+    </Setting>
+    <Setting Name="FilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ControlSerialPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="ScanSerialPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM2</Value>
+    </Setting>
+    <Setting Name="StateDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="ScanDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
